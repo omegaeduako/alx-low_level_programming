@@ -4,7 +4,7 @@
 /**
  * main – finds and prints the largest prime factor of the number 612852475143
  * followed by a new line
- * Return: returns 0 on Success
+ * Return: Always 0 on Success
  */
 int main(void)
 {
